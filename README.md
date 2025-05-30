@@ -39,18 +39,11 @@ Check out more in my [Repositories](https://github.com/yourusername?tab=reposito
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌍 [Portfolio](https://yourportfolio.com)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/rohankumar-webdev)
+- 🌍 [Portfolio]([https://yourportfolio.com](https://statuesque-marzipan-e8e079.netlify.app/))
+- 📧 [your.email@example.com](mailto:pushpakarrohan001@gmail.com)
 
 ---
 
