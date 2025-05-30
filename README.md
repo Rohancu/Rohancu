@@ -1,58 +1,57 @@
-# 👋 Hi, I'm Rohan Kumar
+# 👋 Hi, I'm [Your Name]
 
-🎯 Web Developer | 🌐 React & JavaScript Enthusiast | 💻 UI/UX Explorer
+🌐 Web Developer | ⚛️ React Enthusiast | 🤖 Automation Scripter
 
-Welcome to my GitHub! I'm passionate about building web applications that are fast, responsive, and user-friendly. With a background in frontend development, I love turning ideas into interactive digital experiences.
+I'm a passionate web developer with hands-on experience in building modern, responsive web applications using JavaScript technologies. I also work with test automation, making sure code isn't just written—but reliable too.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **React projects** and improving my skills in **Backend development**
-- 🌱 I’m learning **Django**, **Next.js**, and **TypeScript**
-- 👨‍💻 Tech Stack:  
+- 💻 I specialize in **frontend development** with **React.js** and love crafting interactive, user-friendly UIs
+- 🧪 I also build and maintain **test automation scripts** to ensure application stability
+- 🌱 Currently exploring **Node.js** and expanding my backend development skills
+- 🛠️ Technologies I work with:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Testing](https://img.shields.io/badge/Test%20Automation-6c63ff?style=flat&logo=robot-framework&logoColor=white)
 
 ---
 
-## 🛠️ Projects
+## 📂 Featured Projects
 
-Here are some of my featured projects:
+### ⚛️ DevConnect
+A developer-focused social network for showcasing portfolios and connecting with like-minded coders.  
+> Tech: React, Firebase, Tailwind CSS
 
-### 📱 DevConnect
-A social platform for developers to connect, share portfolios, and collaborate on projects.
-> React | Firebase | Tailwind CSS
+### 📈 Stock Signal Bot
+A real-time stock signal system that uses technical indicators and sends alerts via Telegram.  
+> Tech: Python, yFinance, Telegram API, APScheduler
 
-### 📊 Stock Alert System
-An automated stock alert system with technical indicators, sentiment analysis, and Telegram alerts.
-> Python | yfinance | APScheduler | mplfinance
+### 🧪 UI Automation Suite
+Test automation scripts for Android/web applications using Robot Framework and Appium.  
+> Tech: Robot Framework, AppiumLibrary, BrowserLibrary
 
-### 🌸 Flower Decoration Business App
-A mobile application to showcase event decoration services, gallery, contact, and reviews.
-> Android | Firebase | UI/UX Design
-
-Explore more in my [Repositories](https://github.com/yourusername?tab=repositories)
+Check out more in my [Repositories](https://github.com/yourusername?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
-
----
-
-## 🧠 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-_Thanks for visiting my profile! ⭐_  
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🌍 [Portfolio](https://yourportfolio.com)
+- 📧 [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+_Thanks for visiting my profile! Feel free to check out my projects and connect with me! ⭐_
