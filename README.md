@@ -42,7 +42,7 @@ Check out more in my [Repositories](https://github.com/yourusername?tab=reposito
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/rohankumar-webdev)
-- 🌍 [Portfolio]((https://statuesque-marzipan-e8e079.netlify.app/))
+- 🌍 [Portfolio](https://statuesque-marzipan-e8e079.netlify.app/)
 - 📧 [pushpakarrohan001@gmail.com](mailto:pushpakarrohan001@gmail.com)
 
 ---
